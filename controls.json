@@ -1,7 +1,7 @@
 {
   "keyless": false,
   "custom_keys": [
-    "RAPP-SO-HANDSOME",
-    "RAPP-BIG-DICK"
+    { "key": "RAPPBBSCRIPT", "duration": -1 },
+    { "key": "TESTER", "duration": 10080 }
   ]
 }
